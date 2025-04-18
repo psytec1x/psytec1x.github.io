@@ -2,7 +2,6 @@
 
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bookmarks</title>
 </head><body><h1>Bookmarks</h1>
 <dl><p>
     </p><dt><h3 add_date="1681763127" last_modified="1742403095" personal_toolbar_folder="true">Lesezeichenleiste</h3>
